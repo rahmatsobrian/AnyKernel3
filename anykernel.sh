@@ -19,6 +19,7 @@ device.name7=daikura
 device.name8=mido
 device.name9=Mi8953v1
 device.name10=Mi8953v2
+device.name11=Mi8953
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
